@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hope-hostels-heroes-names.trycloudflare.com/vnc.html
+URL       : https://hometown-built-still-afternoon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 14:47:04
+Created   : 2026-08-01 18:17:36
 =======================================================
