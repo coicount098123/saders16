@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://high-half-met-treated.trycloudflare.com/vnc.html
+URL       : https://residents-conditions-server-linked.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 23:35:10
+Created   : 2026-08-03 12:43:09
 =======================================================
