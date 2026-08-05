@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sequences-yale-movements-negotiations.trycloudflare.com/vnc.html
+URL       : https://enclosure-reno-light-manufacturer.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 10:14:33
+Created   : 2026-08-05 20:21:39
 =======================================================
